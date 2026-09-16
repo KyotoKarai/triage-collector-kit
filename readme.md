@@ -30,7 +30,6 @@
 
 ```powershell
 .\collectors\windows\Get-TriageData.ps1
-
 ### Linux 
 chmod +x collectors/unix/unix_triage.sh
 sudo collectors/unix/unix_triage.sh
