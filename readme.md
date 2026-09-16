@@ -6,6 +6,3 @@ A collection of scripts for initial incident response artifact collection from W
 
 ## Features
 ...
-
-Лицензия
-Проект распространяется под лицензией MIT. Подробнее в LICENSE.
