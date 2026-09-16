@@ -1,1 +1,34 @@
+# Triage results (никогда не коммитим собранные артефакты)
+triage_*/
+Triage_*/
+*.tar.gz
+*.zip
+*.7z
 
+# Evidence files
+*.evtx
+*.pcap
+*.pcapng
+*.etl
+*.export
+SHA256SUMS
+
+# Logs
+*.log
+
+# Python (для будущего normalizer/ и viewer/)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
