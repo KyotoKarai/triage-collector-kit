@@ -3,7 +3,7 @@
 **English** | [Русский](README.ru.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/YOUR_USERNAME/triage-collector-kit/releases)
+[![Version](https://img.shields.io/github/v/release/KyotoKarai/triage-collector-kit?label=version&color=blue)](https://github.com/KyotoKarai/triage-collector-kit/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)]()
 
 A collection of scripts for initial incident response artifact collection from Windows and Linux hosts. Designed for triage and investigation scenarios, not for continuous monitoring.
