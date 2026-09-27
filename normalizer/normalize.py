@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
+
 Triage Collector Kit - normalizer (v0.2.0)
 
 Converts Windows collector output (CSV) into a unified NDJSON schema.
@@ -19,7 +17,7 @@ from datetime import datetime
 from ipaddress import ip_address
 from pathlib import Path
 
-# --- Constants ---------------------------------------------------------------
+#  Const
 
 DATE_FORMATS = (
     "%d.%m.%Y %H:%M:%S",
