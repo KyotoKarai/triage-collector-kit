@@ -3,7 +3,7 @@
 [English](README.md) | **Русский**
 
 [![Лицензия: MIT](https://img.shields.io/badge/Лицензия-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Версия](https://img.shields.io/badge/версия-0.1.0-blue.svg)](https://github.com/YOUR_USERNAME/triage-collector-kit/releases)
+[![Версия](https://img.shields.io/github/v/release/KyotoKarai/triage-collector-kit?label=версия&color=blue)](https://github.com/KyotoKarai/triage-collector-kit/releases)
 [![Платформа](https://img.shields.io/badge/платформа-Windows%20%7C%20Linux-lightgrey)]()
 
 Набор скриптов для первичного сбора артефактов инцидент-реагирования с хостов под управлением Windows и Linux. Предназначен для триажа и расследования инцидентов, а не для постоянного мониторинга.
