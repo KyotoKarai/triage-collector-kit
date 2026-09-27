@@ -1,0 +1,1 @@
+# No external dependencies: the normalizer uses the Python standard library only.
